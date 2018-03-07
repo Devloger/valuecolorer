@@ -1,0 +1,20 @@
+{
+    "name": "devloger/valuecolorer",
+    "description": "Package that provides ValueColorer Class for BootStrap4",
+	"license": "MIT",
+	"keywords": ["ValueColorer"],
+    "authors": [
+        {
+            "name": "Devloger",
+            "email": "Devloger22@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload":
+	{
+		"psr-4": {
+			"Devloger\\ValueColorer\\": "src"
+		}
+	}
+}
